@@ -1,0 +1,9 @@
+aiohttp
+bs4
+selenium
+requests
+mechanicalsoup
+faker
+loguru
+grpcio
+grpcio-tools
